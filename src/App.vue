@@ -79,12 +79,10 @@ onMounted(() => {
             <span class="bubble personal"></span>
             <div>Personal</div>
           </label>
-          <!-- {{ category }} -->
         </div>
         <input type="submit" value="Add to do" />
       </form>
     </section>
-    <!-- {{ ascending }} -->
     <section class="todo-list">
       <h3>TO DO LIST</h3>
       <div class="lists">
