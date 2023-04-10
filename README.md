@@ -1,2 +1,2 @@
 # vue-to-do-list
- A to do list create with Vue.
+ A to do list created with Vue.
